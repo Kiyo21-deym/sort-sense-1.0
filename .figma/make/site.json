@@ -1,0 +1,10 @@
+{
+  "description": "Monitor smart waste bins, fill levels, operational status, AI scans, and alerts in real time to help waste management teams optimize collection and respond quickly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
